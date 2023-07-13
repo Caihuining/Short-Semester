@@ -34,7 +34,6 @@ model文件夹提供的预训练模型介绍，例如：
 
 
 ## 性能和准确率数据
-测试数据：[test data](链接)，使用的加速卡:xxx。
 	
 				
 | 模型 | 下载 | 下载 （附示例测试数据） | ONNX 版本 | Opset 版本 |
@@ -46,8 +45,7 @@ model文件夹提供的预训练模型介绍，例如：
 | Pointilism |	6.6 MB |	7.2 MB |	1.4 |	9
 
 ## 源码仓库及问题反馈
-* 仓库的https链接
+* https://github.com/Caihuining/Short-Semester/tree/main/style_transfer/fast_neural_style
 ## 参考
-* 链接1
-* 链接2
-* ......
+* https://github.com/onnx/models
+
