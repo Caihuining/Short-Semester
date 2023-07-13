@@ -38,8 +38,6 @@ model文件夹提供的预训练模型介绍，例如：
 | Super_Resolution | 240 KB | 7.6兆字节 | 1.5.0 | 10  |
 
 ## 源码仓库及问题反馈
-* 仓库的https链接
+* https://github.com/Caihuining/Short-Semester/tree/main/super_resolution/sub_pixel_cnn_2016
 ## 参考
-* 链接1
-* 链接2
-* ......
+* https://github.com/onnx/models
